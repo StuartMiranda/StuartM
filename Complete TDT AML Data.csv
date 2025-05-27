@@ -1,0 +1,73 @@
+﻿Patient Code ,Age,Male,ECOG ,HCT-CI >2  ,ENL risk 2022 group,AML type,Use of Cytoreductive Agent Pretreatment,TDT ,WBC at presentation (x10^9/L) ,LDH (U/L),Bone Marrow Blast (%) ,Karyotype,Treatment Regimen,Allogeneic SCT ,Cause of delay in treatment,Treatment Response,"Survival - EFS (days)  duration of time from the date of initiation of treatment until date of disease associated events: occurrence of relapse, primary refractory disease, death",Survival - OS (days)  from diagnosis until the date of death or the last known follow-up,EFS
+TDT-AML01,39,0,0,0,intermediate,de novo,"hydroxyurea, cytarabine",60,60.3,487,69.55,no growth,3+7,not done,infection,Primary Refractory Disease,37,282,Primary refractory disease
+TDT-AML02,25,1,0,0,intermediate,de novo,"hydroxyurea, cytarabine",17,246.1,1894,72.52,no growth,HiDAC + Doxo,not done,unfamiliarity to treatment,CR,89,171,Relapse after first remission
+TDT-AML03,39,1,0,0,intermediate,de novo,no cytoreduction given,28,1.5,320,52.62,normal,3+7,not done,infection,Primary Refractory Disease,35,62,Death 
+TDT-AML04,25,0,0,0,favorable,de novo,no cytoreduction given,164,3.1,178,30,normal,3+7,not done,unfamiliarity to treatment,Primary Refractory Disease,74,237,Primary Refractory Disease
+TST-AML05,53,1,0,0,intermediate,de novo,no cytoreduction given,74,2.8,440,26.2,normal,3+7,not done,infection,Primary Refractory Disease,21,124,Primary Refractory Disease
+TDT-AML06,57,1,1,0,unknown,de novo,no cytoreduction given,22,2.58,20,89.7,no growth ,3+7,not done,lack of access,CR,96,179,Primary Refractory Disease
+TDT-AML07,31,1,0,0,intermediate,de novo,no cytoreduction given,1,21.92,297,62.91,normal,3+7,not done,unknown,CR,603,675,Relapse after first remission
+TDT-AML08,19,1,1,0,intermediate,de novo,hydroxyurea,12,15.4,1264,25.33,normal,3+7,not done,unknown,Primary Refractory Disease,37,112,Primary Refractory Disease
+TDT-AML09,19,0,0,0,unknown,de novo,hydroxyurea,6,38.89,4127,21.4,no growth,3+7,not done,unknown,CR,253,253,Unknown
+TDT-AML10,31,0,0,0,unknown,de novo,"hydroxyurea, cytarabine",30,231.6,758,48,no growth,3+7,not done,infection,Primary Refractory Disease,41,242,Primary Refractory Disease
+TDT-AML11,50,1,1,0,unknown,de novo,no cytoreduction given,30,2.1,235,43.5,no growth,3+7,not done,lack of access,Primary Refractory Disease,13,84,Primary refractory disease
+TDT-AML12,34,1,1,0,intermediate,sAML,no cytoreduction given,12,23.2,774,47.5,normal,3+7,not done,unknown,CR,141,171,None
+TDT-AML13,47,0,0,0,intermediate,de novo,cytarabine,39,1.5,399,22.74,normal,3+7,not done,lack of access,Early Death,10,48,Death
+TDT-AML14 ,20,1,1,0,intermediate,de novo,no cytoreduction given,27,4.5,NA,81.5,normal,3+7,not done,lack of access,Early Death,6,32,Death
+TDT-AML15,22,1,1,0,favorable,de novo,"hydroxyurea, cytarabine",11,103.7,917,69.57,no growth,3+7,not done,infection,CR,261,261,None
+TDT-AML16,54,0,0,0,unknown,de novo,hydroxyurea,53,152,1163,6,no growth,3+7,not done,cost of treatment,Early Death,16,68,Death
+TDT-AML17,49,0,0,0,unknown,de novo,no cytoreduction given,27,4.66,294,54.3,no growth,3+7,not done,cost of treatment,Primary Refractory Disease,36,636,Primary refractory disease
+TDT-AML18,27,0,0,0,intermediate,de novo,no cytoreduction given,32,12.6,538,52.72,normal,3+7,not done,cost of treatment,CR,158,189,Death
+TDT-AML19,37,0,0,0,intermediate,de novo,no cytoreduction given,90,4.4,433,25.96,normal,3+7,not done,lack of access,Early Death,39,128,Death
+TDT-AML20,23,1,0,0,intermediate,de novo,hydroxyurea,27,19.6,551,25,normal,3+7,not done,infection,CR,205,265,Relapse after first remission
+TDT-AML21,44,0,0,0,unknown,de novo,no cytoreduction given,45,10.7,336,23,no growth,3+7,not done,cost of treatment,Early Death,52,96,Death
+TDT-AML22,21,0,0,0,unknown,de novo,no cytoreduction given,33,4.3,182,51.73,no growth,3+7,not done,infection,Primary Refractory Disease,15,81,Primary refractory disease
+TDT-AML23,45,1,0,0,unknown,de novo,no cytoreduction given,13,2.7,275,50.33,no growth,3+7,not done,cost of treatment,Early Death,13,25,Death
+TDT-AML24,32,0,0,0,unknown,de novo,no cytoreduction given,15,58,599,46.16,no growth,3+7,not done,lack of access,Early Death,2,16,Death
+TDT-AML25,32,0,1,0,intermediate,de novo,"hydroxyurea, cytarabine",9,240.3,1578,66.42,unknown,3+7,not done,infection,Early Death,33,41,Death
+TDT-AML26,22,1,1,0,intermediate,de novo,no cytoreduction given,32,20.84,332,57.93,normal,3+7,not done,infection,CRi,100,131,Death
+TDT-AML27,37,0,1,0,unknown,de novo,no cytoreduction given,26,10.6,NA,31,no growth,3+7,not done,cost of treatment,CR,514,539,None
+TDT-AML28,22,1,1,1,intermediate,de novo,no cytoreduction given,68,9.7,383,24.44,normal,3+7,not done,lack of access,CR,472,560,Relapse after first remission
+TDT-AML29,41,1,1,0,intermediate,de novo,no cytoreduction given,17,7.6,252,53.23,normal,3+7,not done,infection,CR,183,199,Death
+TDT-AML30,56,1,0,0,unknown,de novo,"hydroxyurea, cytarabine",7,285.9,543,75.39,no growth,3+7,not done,none,Early Death,15,21,Death
+TDT-AML31,60,0,0,0,intermediate,de novo,no cytoreduction given,12,1,355,58.88,normal,3+7,not done,none,CR,141,152,None
+TDT-AML32,40,0,1,0,unknown,de novo,no cytoreduction given,9,9.3,398,72,no growth,3+7,not done,none,CR,274,282,None
+TDT-AML23,42,1,0,0,intermediate,de novo,hydroxyurea,13,56.1,283,30,normal,3+7,not done,none,CR,134,146,Unknown
+TDT-AML34,42,0,0,0,intermediate,de novo,no cytoreduction given,34,1.3,296,57.6,normal,3+7,not done,lack of access,CR,200,233,None
+TDT-AML35,44,0,0,0,unknown,de novo,no cytoreduction given,31,8.7,272,24,no growth,3+7,not done,lack of access,CR,268,298,None
+TDT-AML36,25,0,0,0,unknown,de novo,hydroxyurea,7,22.9,803,76,unknown,HiDAC + Doxo,not done,none,CR,172,178,Death
+TDT-AML37,23,0,0,0,unknown,de novo,hydroxyurea,53,21,918,39.31,no growth,3+7,not done,infection,CR,109,162,Death
+TDT-AML38,54,1,0,0,unknown,de novo,no cytoreduction given,20,1.1,889,35.7,no growth,3+7,not done,infection,Early Death,9,28,Death
+TDT-AML39,19,1,0,0,unknown,de novo,"hydroxyurea, cytarabine",17,187.3,903,71.45,no growth,3+7,not done,lack of access,Early Death,17,58,Death
+TDT-AML40,50,0,0,0,intermediate,de novo,no cytoreduction given,43,2.4,190,24,normal,3+7,not done,lack of access,CR,842,884,None
+TDT-AML41,62,1,0,0,unknown,de novo,no cytoreduction given,50,3.2,309,32,no growth,3+7,not done,lack of access,CR,766,815,None
+TDT-AML42,36,0,0,0,unknown,de novo,no cytoreduction given,27,0.6,183,30,normal,3+7,not done,pregnancy,Early Death,9,35,Death
+TDT-AML43,37,0,0,0,intermediate,de novo,no cytoreduction given,48,13.9,209,58.49,normal,3+7,not done,infection,CR,228,275,None
+TDT-AML44,44,0,0,0,unknown,de novo,hydroxyurea,29,30.1,561,57,no growth,3+7,not done,cost of treatment,Primary Refractory Disease,199,592,Primary refractory disease
+TDT-AML45,53,0,0,0,adverse,sAML,hydroxyurea,5,79.9,405,23,no growth,3+7,not done,cost of treatment,CR,262,433,Relapse after first remission
+TDT-AML46,30,0,0,0,adverse,de novo,no cytoreduction given,23,2.3,609,62.29,no growth,3+7,not done,diagnostic dilemma,CR,183,305,Relapse after first remission
+TDT-AML47,23,0,1,0,intermediate,de novo,no cytoreduction given,28,2.5,122,52,none,3+7,not done,cost of treatment,CR,624,651,None
+TDT-AML48,30,0,1,0,unknown,de novo,no cytoreduction given,87,1.5,118,44.57,no growth,3+7,not done,cost of treatment,Early Death,16,102,Death
+TDT-AML49,37,0,1,0,intermediate,de novo,"hydroxyurea, cytarabine",156,181,994,30.2,normal,3+7,not done,cost of treatment,CR,249,394,Death
+TDT-AML50,27,1,0,0,unknown,de novo,hydroxyurea,15,76.9,897,76,no growth,3+7,not done,infection,Primary Refractory Disease,28,166,Primary refractory disease
+TDT-AML51,26,0,0,0,unknown,de novo,hydroxyurea,24,27,NA,54,no growth,3+7,not done,lack of access,CR,543,752,Relapse after first remission
+TDT-AML52,53,1,1,0,unknown,de novo,no cytoreduction given,30,1.5,149,51.92,no growth,3+7,not done,lack of access,CR,235,405,Relapse after first remission
+TDT-AML53,39,0,0,0,unknown,de novo,hydroxyurea,28,37.4,1548,33.64,no growth,3+7,not done,infection,CR,95,122,Death
+TDT-AML54,32,0,1,0,unknown,de novo,no cytoreduction given,13,9.31,587,69.12,no growth,3+7,not done,infection,Early Death,13,29,Death
+TDT-AML55,45,1,1,0,intermediate,unknown,hydroxyurea,185,15.91,1713,25.73,normal,3+7,not done,infection,CR,154,339,Death
+TDT-AML56,32,1,0,0,unknown,de novo,no cytoreduction given,7,2.2,2082,20,no growth,3+7,not done,none,Early Death,20,27,Death
+TDT-AML57,40,0,0,0,unknown,de novo,"hydroxyurea, cytarabine",4,215,4686,85.15,"46,XX, add (1) (p63.3)",3+7,not done,none,CR,150,154,Death
+TDT-AML58,24,0,0,0,unknown,de novo,no cytoreduction given,16,20,585,56.52,no growth,3+7,not done,cost of treatment,CR,133,216,None
+TDT-AML59,48,0,0,0,unknown,de novo,hydroxyurea,53,31.2,580,65,no growth,3+7,not done,cost of treatment,Early Death,6,59,Death
+TDT-AML60,28,0,0,0,favorable,unknown,hydroxyurea,8,53.5,383,43.06,normal,3+7,not done,none,CR,514,530,Primary refractory disease
+TDT-AML61,37,1,0,0,unknown,de novo,no cytoreduction given,76,35,1152,58.1,no growth,3+7,not done,lack of access,Early Death,21,97,Death
+TDT-AML62,47,0,0,0,intermediate,de novo,no cytoreduction given,41,2.35,313,90,no growth,3+7,not done,cost of treatment,Early Death,14,55,Death
+TDT-AML63,44,0,0,0,intermediate,de novo,no cytoreduction given,4,5.6,509,58.53,normal,3+7,not done,none,Early Death,12,16,Death
+TDT-AML64,22,1,0,0,unknown,de novo,"hydroxyurea, cytarabine",3,315.57,1029,71.96,not done,3+7,not done,infection,Early Death,13,16,Death
+TDT-AML65,47,0,0,0,intermediate,de novo,no cytoreduction given,33,15.26,855,25,normal,3+7,not done,infection,Early Death,16,49,Death
+TDT-AML66,63,0,0,1,unknown,de novo,no cytoreduction given,7,21.62,325,72.32,no growth,3+7,not done,none,Early Death,27,34,Death
+TDT-AML67,39,1,0,0,unknown,de novo,no cytoreduction given,20,1.3,114,90.1,not done,3+7,not done,cost of treatment,Primary Refractory Disease,19,314,Primary refractory disease
+TDT-AML68,21,1,0,0,unknown,de novo,"hydroxyurea, cytarabine",7,103,232,66,no growth,3+7,not done,infection,CR,145,152,Death
+TDT-AML69,63,1,1,0,unknown,de novo,"hydroxyurea, cytarabine",2,91,1799,72,no growth,3+7,not done,none,CR,255,275,Relapse after first remission
+TDT-AML70,30,1,0,1,unknown,de novo,hydroxyurea,84,101,314,80.13,not done,3+7,not done,cost of treatment,CR,96,180,Death
+TDT-AML71,43,1,0,0,unknown,de novo,hydroxyurea,21,249.58,1017,87.6,not done,3+7,not done,infection,CR,155,176,Death
+TDT-AML72,35,1,0,0,unknown,de novo,,16,65,855,23,"46, XY, t(3;7)(q29'q22)",3+7,not done,infection,CR,286,328,Relapse after first remission
