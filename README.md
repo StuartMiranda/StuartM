@@ -1,5 +1,5 @@
-Hi everyone! Welcome to my repo! 
+👋 Hi there! Welcome to my personal project repository.
 
-You will be able to find projects done either in school or my free time done in: R, SQL, and Python
+Here you'll find a collection of projects I've worked on during university, freelance work, and in my free time, using tools like R, SQL, and Python. These projects reflect my interests in data analysis, problem-solving, and continuous learning.
 
-Enjoy! :)
+Feel free to explore—and thanks for stopping by!
